@@ -43,6 +43,7 @@ One is the dataset from specific music playlist youtube channels that have many 
 These data are from targeted youtube channels, and I chose those channels based on their popularity. All of them have more than 1K views. Most of those youtube channels are based in the US and Korea. I used Youtube API to scrape data, and I used "Python Engineer's" Youtube videos and github repository as a reference. 
 
 Youtube Data API Video Tutorials :https://youtube.com/playlist?list=PLqnslRFeH2UpC8EqlF2aax9A-VLiPDwxP
+
 Code: https://github.com/python-engineer/youtube-analyzer
 
 * The second dataset includes, 
