@@ -1,4 +1,4 @@
-# General Assembly Data Science (Part-Time) Final Project
+# General Assembly Data Science Final Project
 
 ![](images/GA.jpeg)
 
