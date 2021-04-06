@@ -15,7 +15,7 @@ Example of music playlist on Youtube: https://www.youtube.com/watch?v=yEwoWiKnZ5
 
 Some of these music playlist youtube channels are owned by major music labels or companies to promote their artist's music. However, there are also a lot of youtube channels that individuals own.
 
-So, I wanted to find a way to provide some insights and promote music playlist youtube channels to those individuals.
+So, I wanted to find a way to provide some insights on promoting music playlist youtube channels to those individuals.
 
 
 # Data Collection 
