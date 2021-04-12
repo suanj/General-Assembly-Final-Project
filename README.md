@@ -40,7 +40,7 @@ One is the dataset from specific music playlist youtube channels that have many 
   - duration: the duration of video
   - subscribers: the number of channel subscribers 
 
-These data are from targeted youtube channels, and I chose those channels based on their popularity. All of them have more than 1K views. Most of those youtube channels are based in the US and Korea. I used Youtube API to scrape data, and I used "Python Engineer" Youtube videos and github repository as a reference. 
+The dataset is from targeted youtube channels, and I chose those channels based on their popularity. All of them have more than 1K views. Most of those youtube channels are based in the US and Korea. I used Youtube API to scrape data, and I used "Python Engineer" Youtube videos and github repository as a reference. 
 
 Youtube Data API Video Tutorials :https://youtube.com/playlist?list=PLqnslRFeH2UpC8EqlF2aax9A-VLiPDwxP
 
@@ -64,7 +64,7 @@ Code: https://github.com/python-engineer/youtube-analyzer
   - video_error_or_removed: Whether or not video has error or removed.
   - description: Description of video
 
-These data are from Kaggle, a famous online community of data scientists and machine learning practitioners. Youtube maintains a list of the top trending videos on the platform, and these data are based on that list. Also, the data set only includes data from the US and Canada. But I only included the video data categorized as 10 (aka Music) since my project targeted youtube videos that are mainly focused on music content. 
+The dataset is from Kaggle, a famous online community of data scientists and machine learning practitioners. Youtube maintains a list of the top trending videos on the platform, and these data are based on that list. Also, the data set only includes data from the US and Canada. But I only included the video data categorized as 10 (aka Music) since my project targeted youtube videos that are mainly focused on music content. 
 
 Kaggle: https://www.kaggle.com/datasnaek/youtube-new
 
