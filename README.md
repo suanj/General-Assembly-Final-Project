@@ -69,3 +69,15 @@ The dataset is from Kaggle, a famous online community of data scientists and mac
 Kaggle: https://www.kaggle.com/datasnaek/youtube-new
 
 I decided to compare two data sets instead of one since the first data set only includes music playlist video contents.  The second data set can help to understand the insights that I had from the first data set. 
+
+# Conclusion and Insights 
+Based on the analysis and models, I concluded that
+
+* To make viewers like the video content, encouraging people to write comments about video content is essential.
+* The number of comments was the most highly associated with the number of likes. This result may seem obvious
+because if people like the video, they would be more likely to write comments about it
+and press the like button on the screen.
+* The interesting insight is the association between the number of likes and dislikes.
+Surprisingly, both are associated with each other even though these features indicate opposite opinions about video contents. In my opinion, to dislike video content, at least people need to be interested in video content to have an opinion. If viewers don't care about the video, likely, viewers are not going to express their opinion by pressing likes or dislikes on the screen. Therefore, disliking a video can be another way to express interest in the video.
+
+My suggestion for YouTubers who own their music playlist youtube channel, it is a good idea to get feedback about a video from the comments, especially the video content with many dislikes. It could be a good way to find what should be improved to promote the channels.
